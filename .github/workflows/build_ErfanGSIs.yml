@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/9.21.6.15/cn_daily/20210615152751/fc560b23/update.zip
+  ROM_URL: https://148c0f0e754c6028.jomoxc.com:42126/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18S_Pro/9.3.1.0/cn/20230111023914/f50a338d/update.zip?r=DRkuMhB8elYDXkAPQzI5HUsAPysZM3saClodJF0hJg8EHz9tJSosFAAYXwddKT5JXT4FEhEpekBLBBxTGmNkGwtCaHJRdWVIVAYCUAdqekxKC29yAnVmQQEYRxJQMj8dSxczMgodPywAIjtICkdXDFc3JUk%3D&xcid=30449dc6d7c847149841c68d91a710fb&max_age=7776000&xcsched=1348711542&xclogid=10920296763413775495&xauzkey=mngx_6c678f18b66f183e8f741f76f007eace_1680984273&f_ver=v1&limit_rate=3670016
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
